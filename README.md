@@ -10,7 +10,7 @@
 ---
 
 
-<img src="./screen/1.png" width="100"/><img src="./screen/2.png" width="100"/>
+<img src="./screen/1.png" width="160"/><img src="./screen/2.png" width="160"/>
 
 ## 功能特性
 
