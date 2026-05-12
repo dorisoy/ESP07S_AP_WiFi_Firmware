@@ -6,6 +6,10 @@
 
 ---
 
+
+<img src="./screen/1.png"/>
+<img src="./screen/2.png"/>
+
 ## 功能特性
 
 | 功能 | 说明 |
