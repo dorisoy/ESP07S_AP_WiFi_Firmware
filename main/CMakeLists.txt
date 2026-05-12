@@ -1,0 +1,20 @@
+idf_component_register(
+    SRCS
+        "app_main.c"
+        "uart_protocol.c"
+        "wifi_manager.c"
+        "http_server.c"
+        "dns_server.c"
+    INCLUDE_DIRS "."
+    REQUIRES
+        nvs_flash
+        esp8266
+        lwip
+        freertos
+        log
+        esp_http_server
+        esp_event
+        tcpip_adapter
+        json
+        pthread
+)
